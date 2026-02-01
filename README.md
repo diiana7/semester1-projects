@@ -8,8 +8,6 @@ This repository contains the projects and assignments completed during the first
 - [labs](programming_basics_c/labs/) – laboratory assignments (lab01 to lab10)
 - [practice](programming_basics_c/practice/) – practice tasks:
   - [arrays](programming_basics_c/practice/arrays/)
-  - [enum](programming_basics_c/practice/enum/)
-  - [functions](programming_basics_c/practice/functions/)
   - [lists](programming_basics_c/practice/lists/)
     - [singly_linked](programming_basics_c/practice/lists/singly_linked/)
     - [doubly_linked](programming_basics_c/practice/lists/doubly_linked/)
