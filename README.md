@@ -23,7 +23,3 @@ This repository contains the projects and assignments completed during the first
     - [doubly_linked](programming_basics_c/practice/lists/doubly_linked/)
   - [strings](programming_basics_c/practice/strings/)
 
-### Discrete Mathematics
-- [lab01](discrete_math_c/lab01/)
-- [lab02](discrete_math_c/lab02/)
-- [lab03](discrete_math_c/lab03/)
